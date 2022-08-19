@@ -1,0 +1,30 @@
+{
+    "products": [
+        {
+            "title": "Product 1",
+            "url": "https://www.homegrounds.co/wp-content/uploads/2019/09/cappuccino-in-clear-cup.jpg",
+            "price": 30
+        },
+        {
+            "title": "Product 2",
+            "url": "https://www.pittsburghmagazine.com/content/uploads/data-import/5e26e0bc/Screen20Shot202014-06-2320at202315620PM.png",
+            "price": 25
+        },
+        {
+            "title": "Product 3",
+            "url": "https://img.etimg.com/thumb/msid-73548905,width-640,height-480,imgsize-671235,resizemode-4/mathematical-formula-for-perfect-cup-of-coffee.jpg",
+            "price": 15
+        },
+        {
+            "title": "Product 4",
+            "url": "https://laboratorioespresso.it/wp-content/uploads/2018/09/Noetica-Blog-Immagini-Vetro-o-tazzina-1-Adobe-Stock-1024x683.jpeg",
+            "price": 10
+        },
+        {
+            "title": "Product 5",
+            "url": "https://deliciousmadeeasy.com/wp-content/uploads/2018/04/chocoholic-cold-brew-coffee-1-of-1-7-720x720.jpg",
+            "price": 12
+        }
+    ],
+    "offers": []
+}
