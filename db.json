@@ -36,7 +36,7 @@
             "url": "https://laboratorioespresso.it/wp-content/uploads/2018/09/Noetica-Blog-Immagini-Vetro-o-tazzina-1-Adobe-Stock-1024x683.jpeg"
         }
     ],
-    "Users": [
+    "users": [
         "uid": "00001",
         "username":"user1",
         "password": "password123",
