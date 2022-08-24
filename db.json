@@ -35,5 +35,11 @@
             "title": "Offer 2",
             "url": "https://laboratorioespresso.it/wp-content/uploads/2018/09/Noetica-Blog-Immagini-Vetro-o-tazzina-1-Adobe-Stock-1024x683.jpeg"
         }
-    ]
+    ],
+    "Users": [
+        "uid": "00001",
+        "username":"user1",
+        "password": "password123",
+        "email":"user1@email.com"
+        ]
 }
